@@ -1,6 +1,7 @@
 import requests
 from openai import OpenAI
 
+# ollama 服务测试脚本
 
 # Ollama API base URL
 # Ollama_API_URL = "http://221.223.25.44:11434/v1"
