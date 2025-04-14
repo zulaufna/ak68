@@ -23,11 +23,7 @@ from openai import OpenAI
 #Ollama_API_URL = "http://121.207.151.111:11434/v1"
 #Ollama_API_URL = "http://113.119.9.30:11434/v1"
 Ollama_API_URL = "http://101.37.83.61:9994/v1"
-# huihui
-#116.62.177.112:11434
-#121.207.151.111:11434
-#113.119.9.30:11434
-#219.151.28.172:11434
+
 
 # 设置  API 密钥
 Ollama_API_KEY = "sk-"
