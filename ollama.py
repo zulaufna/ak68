@@ -4,25 +4,7 @@ from openai import OpenAI
 # ollama 服务测试脚本
 
 # Ollama API base URL
-# Ollama_API_URL = "http://221.223.25.44:11434/v1"
-# Ollama_API_URL = "http://150.158.144.28:8000/v1"
-# Ollama_API_URL = "http://54.226.219.28:11434/v1"
-# Ollama_API_URL = "http://34.57.198.96:5000/v1"
-# Ollama_API_URL = "http://50.126.45.75:11434/v1"
-#Ollama_API_URL = "http://101.200.85.249:11434/v1"
-#Ollama_API_URL = "http://27.82.194.51:11434/v1"
-#Ollama_API_URL = "http://73.28.31.200:5001/v1"
-#Ollama_API_URL = "http://81.70.40.68:11434/v1"3
-#Ollama_API_URL = "http://8.219.204.177:11434//v1"
-# Ollama_API_URL = "http://101.52.217.169:5000/v1"
-# Ollama_API_URL = "http://103.189.173.115:8000/v1"
-# Ollama_API_URL = "http://103.214.143.184:8450/v1"
-# Ollama_API_URL = "http://103.84.90.199:8450/v1"
-#Ollama_API_URL = "http://219.151.28.172:11434/v1"
-#Ollama_API_URL = "http://116.62.177.112:11434/v1"
-#Ollama_API_URL = "http://121.207.151.111:11434/v1"
-#Ollama_API_URL = "http://113.119.9.30:11434/v1"
-Ollama_API_URL = "http://101.37.83.61:9994/v1"
+Ollama_API_URL = "your ip"
 
 
 # 设置  API 密钥
